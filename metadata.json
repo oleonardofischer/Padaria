@@ -1,0 +1,6 @@
+{
+  "name": "Padaria Artesanal da Tati - Gestão de Pedidos e Estoque",
+  "description": "Sistema simples e móvel para gestão de clientes, anotação rápida de pedidos de pão caseiro, entregas do dia, controle de estoque e envio de e-mails automáticos sincronizado com o Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
